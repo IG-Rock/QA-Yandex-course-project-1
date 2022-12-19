@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T16:37:32.768Z" agent="5.0 (Windows)" etag="cfXEvHFfvkToVp-wGCAa" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T16:40:38.900Z" agent="5.0 (Windows)" etag="1BjRvZ3_WE0RJFU-phxf" version="20.7.4" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
     <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -771,14 +771,14 @@
         <mxCell id="t0klWny1QTj11VJ2f9qx-5" value="переключатель активен" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1320" y="373" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t0klWny1QTj11VJ2f9qx-6" value="при выборе режима строится маршрут и рассчитывается время и стоимость поездки" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="393" width="510" height="30" as="geometry" />
+        <mxCell id="t0klWny1QTj11VJ2f9qx-6" value="при выборе режима строится маршрут и рассчитывается время и стоимость поездки, вид транспорта назначается автоматически" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="393" width="770" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t0klWny1QTj11VJ2f9qx-12" value="переключатель активен" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1320" y="424" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t0klWny1QTj11VJ2f9qx-13" value="при выборе режима строится маршрут и рассчитывается время и стоимость поездки" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="444" width="510" height="30" as="geometry" />
+        <mxCell id="t0klWny1QTj11VJ2f9qx-13" value="при выборе режима строится маршрут и рассчитывается время и стоимость поездки, вид транспорта назначается автоматически" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="444" width="770" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t0klWny1QTj11VJ2f9qx-16" value="при выборе режима становятся активными переключатели видов транспорта" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1320" y="492" width="470" height="30" as="geometry" />
